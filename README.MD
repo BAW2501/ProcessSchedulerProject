@@ -40,8 +40,8 @@ gcc -o scheduler main.c algorithms.c File.c Utility.c
 - Additional header files for function declarations
 
 ### Authors
-- Student Name
-- January 2021
+- ME and someone who got his name put on the project
+- January 2020
 - Faculty of Exact Sciences and Informatics
 
 ### Academic Context
